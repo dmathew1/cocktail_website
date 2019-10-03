@@ -1,0 +1,2393 @@
+                          Cocktail Name  ...                                             Notes
+0                        Flor de Amaras  ...                                               NaN
+1                       The Happy Place  ...  Junipero Gin 20th Anniversary Signature Cocktail
+2                Bon Voyage Pisco Punch  ...                                               NaN
+3             Still Life of a Pineapple  ...                                               NaN
+4                   The Bittered Valley  ...                                               NaN
+5                              OH Snap!  ...  Junipero Gin 20th Anniversary Signature Cocktail
+6                    Wabash Avenue Sour  ...                                               NaN
+7                              IPA Mule  ...                                               NaN
+8                         Ritz Cocktail  ...                                               NaN
+9  King's Snap the Chocolate Out of You  ...                                               NaN
+
+[10 rows x 9 columns]
+                          Cocktail Name  ...                                             Notes
+0                        Flor de Amaras  ...                                               NaN
+1                       The Happy Place  ...  Junipero Gin 20th Anniversary Signature Cocktail
+2                Bon Voyage Pisco Punch  ...                                               NaN
+3             Still Life of a Pineapple  ...                                               NaN
+4                   The Bittered Valley  ...                                               NaN
+5                              OH Snap!  ...  Junipero Gin 20th Anniversary Signature Cocktail
+6                    Wabash Avenue Sour  ...                                               NaN
+7                              IPA Mule  ...                                               NaN
+8                         Ritz Cocktail  ...                                               NaN
+9  King's Snap the Chocolate Out of You  ...                                               NaN
+
+[10 rows x 9 columns]
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+DrinkFrame: [    Cocktail Name       Bartender Bar/Company Location  ...          Garnish Glassware                                        Preparation Notes
+0  Flor de Amaras  Kelly McCarthy         NaN   Boston  ...  Marigold Petals       NaN  *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...   NaN
+
+[1 rows x 9 columns],      Cocktail Name          Bartender  ...                                        Preparation                                             Notes
+1  The Happy Place  Elizabeth Montana  ...  *House-made Cranberry syrup: \n-- 2 cups Fresh...  Junipero Gin 20th Anniversary Signature Cocktail
+
+[1 rows x 9 columns],             Cocktail Name    Bartender Bar/Company  ...   Glassware                                        Preparation Notes
+2  Bon Voyage Pisco Punch  Jon Morales         NaN  ...  Punch Bowl  *Pineapple Gomme: \nMix equal parts (1.5 cups)...   NaN
+
+[1 rows x 9 columns],                Cocktail Name        Bartender Bar/Company  ... Glassware                                        Preparation Notes
+3  Still Life of a Pineapple  Daniel Braganca     Backbar  ...       NaN  *Pineapple Syrup:\n<em>Equal parts pineapple b...   NaN
+
+[1 rows x 9 columns],          Cocktail Name   Bartender Bar/Company Location  ... Garnish Glassware                                        Preparation Notes
+4  The Bittered Valley  Nik Virrey         NaN  Seattle  ...     NaN       NaN  1st glass ingredients:\nLuxardo Maraschino, Ac...   NaN
+
+[1 rows x 9 columns],   Cocktail Name       Bartender  ...                                        Preparation                                             Notes
+5      OH Snap!  Kevin Diedrich  ...  Add 6-8 sugar snap peas to cocktail shaker. Li...  Junipero Gin 20th Anniversary Signature Cocktail
+
+[1 rows x 9 columns],         Cocktail Name         Bartender   Bar/Company  ... Glassware                                        Preparation Notes
+6  Wabash Avenue Sour  Phillip Ricafort  American Oak  ...     Coupe  Add all ingredients and dry-shake (without ice...   NaN
+
+[1 rows x 9 columns],   Cocktail Name Bartender      Bar/Company Location  ... Garnish Glassware                                        Preparation Notes
+7      IPA Mule  Jon Ruiz  AMK Kitchen Bar  Chicago  ...    Mint   Tin Cup  Add all ingredients except beer into shaker ti...   NaN
+
+[1 rows x 9 columns],    Cocktail Name     Bartender Bar/Company Location  ...      Garnish Glassware                                        Preparation Notes
+8  Ritz Cocktail  Dale DeGroff         NaN      NaN  ...  Orange Peel   Martini  Add all ingredients except the champagne to a ...   NaN
+
+[1 rows x 9 columns],                           Cocktail Name   Bartender Bar/Company  ...    Glassware                                        Preparation Notes
+9  King's Snap the Chocolate Out of You  Ian Julian         NaN  ...  Rocks Glass  Add all ingredients except the whip cream and ...   NaN
+
+[1 rows x 9 columns]]
+                          Cocktail Name  ...                                             Notes
+0                        Flor de Amaras  ...                                               NaN
+1                       The Happy Place  ...  Junipero Gin 20th Anniversary Signature Cocktail
+2                Bon Voyage Pisco Punch  ...                                               NaN
+3             Still Life of a Pineapple  ...                                               NaN
+4                   The Bittered Valley  ...                                               NaN
+5                              OH Snap!  ...  Junipero Gin 20th Anniversary Signature Cocktail
+6                    Wabash Avenue Sour  ...                                               NaN
+7                              IPA Mule  ...                                               NaN
+8                         Ritz Cocktail  ...                                               NaN
+9  King's Snap the Chocolate Out of You  ...                                               NaN
+
+[10 rows x 9 columns]
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Missing: 2 oz Bourbon
+Missing: .75 oz Cognac
+DrinkFrame: [    Cocktail Name       Bartender Bar/Company Location  ...          Garnish Glassware                                        Preparation Notes
+0  Flor de Amaras  Kelly McCarthy         NaN   Boston  ...  Marigold Petals       NaN  *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...   NaN
+
+[1 rows x 9 columns],      Cocktail Name          Bartender  ...                                        Preparation                                             Notes
+1  The Happy Place  Elizabeth Montana  ...  *House-made Cranberry syrup: \n-- 2 cups Fresh...  Junipero Gin 20th Anniversary Signature Cocktail
+
+[1 rows x 9 columns],             Cocktail Name    Bartender Bar/Company  ...   Glassware                                        Preparation Notes
+2  Bon Voyage Pisco Punch  Jon Morales         NaN  ...  Punch Bowl  *Pineapple Gomme: \nMix equal parts (1.5 cups)...   NaN
+
+[1 rows x 9 columns],                Cocktail Name        Bartender Bar/Company  ... Glassware                                        Preparation Notes
+3  Still Life of a Pineapple  Daniel Braganca     Backbar  ...       NaN  *Pineapple Syrup:\n<em>Equal parts pineapple b...   NaN
+
+[1 rows x 9 columns],          Cocktail Name   Bartender Bar/Company Location  ... Garnish Glassware                                        Preparation Notes
+4  The Bittered Valley  Nik Virrey         NaN  Seattle  ...     NaN       NaN  1st glass ingredients:\nLuxardo Maraschino, Ac...   NaN
+
+[1 rows x 9 columns],   Cocktail Name       Bartender  ...                                        Preparation                                             Notes
+5      OH Snap!  Kevin Diedrich  ...  Add 6-8 sugar snap peas to cocktail shaker. Li...  Junipero Gin 20th Anniversary Signature Cocktail
+
+[1 rows x 9 columns],         Cocktail Name         Bartender   Bar/Company  ... Glassware                                        Preparation Notes
+6  Wabash Avenue Sour  Phillip Ricafort  American Oak  ...     Coupe  Add all ingredients and dry-shake (without ice...   NaN
+
+[1 rows x 9 columns],   Cocktail Name Bartender      Bar/Company Location  ... Garnish Glassware                                        Preparation Notes
+7      IPA Mule  Jon Ruiz  AMK Kitchen Bar  Chicago  ...    Mint   Tin Cup  Add all ingredients except beer into shaker ti...   NaN
+
+[1 rows x 9 columns],    Cocktail Name     Bartender Bar/Company Location  ...      Garnish Glassware                                        Preparation Notes
+8  Ritz Cocktail  Dale DeGroff         NaN      NaN  ...  Orange Peel   Martini  Add all ingredients except the champagne to a ...   NaN
+
+[1 rows x 9 columns],                           Cocktail Name   Bartender Bar/Company  ...    Glassware                                        Preparation Notes
+9  King's Snap the Chocolate Out of You  Ian Julian         NaN  ...  Rocks Glass  Add all ingredients except the whip cream and ...   NaN
+
+[1 rows x 9 columns]]
+                          Cocktail Name  ...                                             Notes
+0                        Flor de Amaras  ...                                               NaN
+1                       The Happy Place  ...  Junipero Gin 20th Anniversary Signature Cocktail
+2                Bon Voyage Pisco Punch  ...                                               NaN
+3             Still Life of a Pineapple  ...                                               NaN
+4                   The Bittered Valley  ...                                               NaN
+5                              OH Snap!  ...  Junipero Gin 20th Anniversary Signature Cocktail
+6                    Wabash Avenue Sour  ...                                               NaN
+7                              IPA Mule  ...                                               NaN
+8                         Ritz Cocktail  ...                                               NaN
+9  King's Snap the Chocolate Out of You  ...                                               NaN
+
+[10 rows x 9 columns]
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Missing: 2 oz Bourbon
+Missing: .75 oz Cognac
+                          Cocktail Name  ...                                             Notes
+0                        Flor de Amaras  ...                                               NaN
+1                       The Happy Place  ...  Junipero Gin 20th Anniversary Signature Cocktail
+2                Bon Voyage Pisco Punch  ...                                               NaN
+3             Still Life of a Pineapple  ...                                               NaN
+4                   The Bittered Valley  ...                                               NaN
+5                              OH Snap!  ...  Junipero Gin 20th Anniversary Signature Cocktail
+6                    Wabash Avenue Sour  ...                                               NaN
+7                              IPA Mule  ...                                               NaN
+8                         Ritz Cocktail  ...                                               NaN
+9  King's Snap the Chocolate Out of You  ...                                               NaN
+
+[10 rows x 9 columns]
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Ingr: Cocktail Name                                       Flor de Amaras
+Bartender                                           Kelly McCarthy
+Bar/Company                                                    NaN
+Location                                                    Boston
+Ingredients      [1.5 oz Mezcal,  1 oz Hibiscus Simple Syrup*, ...
+Garnish                                            Marigold Petals
+Glassware                                                      NaN
+Preparation      *Hibiscus Simple Syrup:\n1:1 w/ a cup of dried...
+Notes                                                          NaN
+Name: 0, dtype: object
+Ingr: Cocktail Name                                      The Happy Place
+Bartender                                        Elizabeth Montana
+Bar/Company                                        Forgery & Verso
+Location                                             San Francisco
+Ingredients      [2 oz Junipero Gin,  .75 oz House-made Cranber...
+Garnish                  Dehydrated Lemon Wheel, Sprig of Rosemary
+Glassware                                                      NaN
+Preparation      *House-made Cranberry syrup: \n-- 2 cups Fresh...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 1, dtype: object
+Ingr: Cocktail Name                               Bon Voyage Pisco Punch
+Bartender                                              Jon Morales
+Bar/Company                                                    NaN
+Location                                             San Francisco
+Ingredients      [1500 ml BarSol Selecto Italia Pisco,  750 ml ...
+Garnish                                                        NaN
+Glassware                                               Punch Bowl
+Preparation      *Pineapple Gomme: \nMix equal parts (1.5 cups)...
+Notes                                                          NaN
+Name: 2, dtype: object
+Ingr: Cocktail Name                            Still Life of a Pineapple
+Bartender                                          Daniel Braganca
+Bar/Company                                                Backbar
+Location                                                Somerville
+Ingredients      [1.5 oz BarSol Primero Quebranta Pisco,  .75 o...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      *Pineapple Syrup:\n<em>Equal parts pineapple b...
+Notes                                                          NaN
+Name: 3, dtype: object
+Ingr: Cocktail Name                                  The Bittered Valley
+Bartender                                               Nik Virrey
+Bar/Company                                                    NaN
+Location                                                   Seattle
+Ingredients      [1.25 oz Luxardo Maraschino Liqueur,  4 drops ...
+Garnish                                                        NaN
+Glassware                                                      NaN
+Preparation      1st glass ingredients:\nLuxardo Maraschino, Ac...
+Notes                                                          NaN
+Name: 4, dtype: object
+Ingr: Cocktail Name                                             OH Snap!
+Bartender                                           Kevin Diedrich
+Bar/Company                                 Pacific Cocktail Haven
+Location                                             San Francisco
+Ingredients      [1 oz Junipero Gin,  1 oz House-made Simple Sy...
+Garnish                                                        NaN
+Glassware                                                  Collins
+Preparation      Add 6-8 sugar snap peas to cocktail shaker. Li...
+Notes             Junipero Gin 20th Anniversary Signature Cocktail
+Name: 5, dtype: object
+Ingr: Cocktail Name                                   Wabash Avenue Sour
+Bartender                                         Phillip Ricafort
+Bar/Company                                           American Oak
+Location                                                   Alameda
+Ingredients      [2 oz Bourbon,  1 oz Fresh Lemon Juice,  .5 oz...
+Garnish                                            Rhubarb Bitters
+Glassware                                                    Coupe
+Preparation      Add all ingredients and dry-shake (without ice...
+Notes                                                          NaN
+Name: 6, dtype: object
+Ingr: Cocktail Name                                             IPA Mule
+Bartender                                                 Jon Ruiz
+Bar/Company                                        AMK Kitchen Bar
+Location                                                   Chicago
+Ingredients      [1.5 oz Hophead Vodka,  .5 oz Ginger Liqueur, ...
+Garnish                                                       Mint
+Glassware                                                  Tin Cup
+Preparation      Add all ingredients except beer into shaker ti...
+Notes                                                          NaN
+Name: 7, dtype: object
+Ingr: Cocktail Name                                        Ritz Cocktail
+Bartender                                             Dale DeGroff
+Bar/Company                                                    NaN
+Location                                                       NaN
+Ingredients      [.75 oz Cognac,  .5 oz Cointreau,  .25 oz Luxa...
+Garnish                                                Orange Peel
+Glassware                                                  Martini
+Preparation      Add all ingredients except the champagne to a ...
+Notes                                                          NaN
+Name: 8, dtype: object
+Ingr: Cocktail Name                 King's Snap the Chocolate Out of You
+Bartender                                               Ian Julian
+Bar/Company                                                    NaN
+Location                                               New Orleans
+Ingredients      [1 oz King's Ginger Liqueur,  1.5 oz Homemade ...
+Garnish                                       Ginger snap crumbles
+Glassware                                              Rocks Glass
+Preparation      Add all ingredients except the whip cream and ...
+Notes                                                          NaN
+Name: 9, dtype: object
+Missing: 2 oz Bourbon
+Missing: .75 oz Cognac
+Missing: 2 oz Bourbon
+Missing: .75 oz Cognac
+Missing: 2 oz Bourbon
+Missing: .75 oz Cognac
+Drink: 0    Flor de Amaras
+Name: Cocktail Name, dtype: object
+Drink: 1    The Happy Place
+Name: Cocktail Name, dtype: object
+Drink: 2    Bon Voyage Pisco Punch
+Name: Cocktail Name, dtype: object
+Drink: 3    Still Life of a Pineapple
+Name: Cocktail Name, dtype: object
+Drink: 4    The Bittered Valley
+Name: Cocktail Name, dtype: object
+Drink: 5    OH Snap!
+Name: Cocktail Name, dtype: object
+Missing: 2 oz Bourbon
+Drink: 6    Wabash Avenue Sour
+Name: Cocktail Name, dtype: object
+Drink: 7    IPA Mule
+Name: Cocktail Name, dtype: object
+Missing: .75 oz Cognac
+Drink: 8    Ritz Cocktail
+Name: Cocktail Name, dtype: object
+Drink: 9    King's Snap the Chocolate Out of You
+Name: Cocktail Name, dtype: object
+Drink: 0    Flor de Amaras
+Name: Cocktail Name, dtype: object
+Drink: 1    The Happy Place
+Name: Cocktail Name, dtype: object
+Drink: 2    Bon Voyage Pisco Punch
+Name: Cocktail Name, dtype: object
+Drink: 3    Still Life of a Pineapple
+Name: Cocktail Name, dtype: object
+Drink: 4    The Bittered Valley
+Name: Cocktail Name, dtype: object
+Drink: 5    OH Snap!
+Name: Cocktail Name, dtype: object
+Drink: 6    Wabash Avenue Sour
+Name: Cocktail Name, dtype: object
+Drink: 7    IPA Mule
+Name: Cocktail Name, dtype: object
+Drink: 8    Ritz Cocktail
+Name: Cocktail Name, dtype: object
+Drink: 9    King's Snap the Chocolate Out of You
+Name: Cocktail Name, dtype: object
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: Flor de Amaras
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Index Page
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Missing: 1.5 oz Mezcal
+Missing:  1 oz Hibiscus Simple Syrup*
+Drink: Flor de Amaras
+Missing:   top Soda Water
+Missing: 2 oz Junipero Gin
+Missing:  .75 oz House-made Cranberry Syrup*
+Missing:  .5 oz Lemon Juice
+Missing:  .5 oz Cranberry Juice
+Missing:  .25 oz Lillet Blanc
+Missing:  4 dash Forgery Earth Day Bitters
+Missing:   mist Laphroaig
+Missing: 1500 ml BarSol Selecto Italia Pisco
+Missing:  750 ml Lemon Juice
+Missing:  750 ml Pineapple Gomme Syrup*
+Missing:  .5 oz Fee Bros Lemon Bitters
+Missing:  1 float Old Vine Zin
+Missing: 1.5 oz BarSol Primero Quebranta Pisco
+Missing:  .75 oz Dry Vermouth
+Missing:  .5 oz St. Germain
+Missing:  .25 oz Pineapple Syrup*
+Missing:  1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+Missing: 1.25 oz Luxardo Maraschino Liqueur
+Missing:  4 drops Acid phosphate
+Missing:  2 oz BarSol Primero Quebranta Pisco
+Missing:  .75 oz Luxardo Amaro Abano
+Missing:  .25 oz Luxardo Fernet
+Missing:  3 dash Scrappy's Aromatic Bitters
+Missing: 1 oz Junipero Gin
+Missing:  1 oz House-made Simple Syrup*
+Missing:  1 oz Manzanilla Sherry
+Missing:  .75 oz Lemon Juice
+Missing:  2 dash Absinthe
+Missing:  6-8  Sugar Snap Peas
+Missing:   top Tonic
+Missing: 2 oz Bourbon
+Missing:  1 oz Fresh Lemon Juice
+Missing:  .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+Missing:  .5 oz Small Hand Foods Pineapple Gum Syrup
+Missing:  .5 oz Egg White
+Missing: 1.5 oz Hophead Vodka
+Missing:  .5 oz Ginger Liqueur
+Drink: IPA Mule
+Missing:  .5 oz Pure Cane Simple Syrup
+Missing:  2 count Deschutes Fresh Squeezed IPA (from tap)
+Missing: .75 oz Cognac
+Missing:  .5 oz Cointreau
+Missing:  .25 oz Luxardo Maraschino Liqueur
+Missing:  .25 oz Fresh Lemon Juice
+Missing:  3 oz Champagne
+Missing: 1 oz King's Ginger Liqueur
+Missing:  1.5 oz Homemade milk chocolate
+Missing:  .75 oz Hazelnut Cinnamon syrup
+Missing:   oz Marshmallow whip cream
+Missing:   oz Ginger snaps
+Drink: Flor de Amaras
+Missing:  1 oz Hibiscus Simple Syrup*
+Missing:   top Soda Water
+Missing: 2 oz Junipero Gin
+Missing:  .75 oz House-made Cranberry Syrup*
+Missing:  .5 oz Lemon Juice
+Missing:  .5 oz Cranberry Juice
+Missing:  .25 oz Lillet Blanc
+Missing:  4 dash Forgery Earth Day Bitters
+Missing:   mist Laphroaig
+Missing: 1500 ml BarSol Selecto Italia Pisco
+Missing:  750 ml Lemon Juice
+Missing:  750 ml Pineapple Gomme Syrup*
+Missing:  .5 oz Fee Bros Lemon Bitters
+Missing:  1 float Old Vine Zin
+Missing: 1.5 oz BarSol Primero Quebranta Pisco
+Missing:  .75 oz Dry Vermouth
+Missing:  .5 oz St. Germain
+Missing:  .25 oz Pineapple Syrup*
+Missing:  1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+Missing: 1.25 oz Luxardo Maraschino Liqueur
+Missing:  4 drops Acid phosphate
+Missing:  2 oz BarSol Primero Quebranta Pisco
+Missing:  .75 oz Luxardo Amaro Abano
+Missing:  .25 oz Luxardo Fernet
+Missing:  3 dash Scrappy's Aromatic Bitters
+Missing: 1 oz Junipero Gin
+Missing:  1 oz House-made Simple Syrup*
+Missing:  1 oz Manzanilla Sherry
+Missing:  .75 oz Lemon Juice
+Missing:  2 dash Absinthe
+Missing:  6-8  Sugar Snap Peas
+Missing:   top Tonic
+Missing: 2 oz Bourbon
+Missing:  1 oz Fresh Lemon Juice
+Missing:  .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+Missing:  .5 oz Small Hand Foods Pineapple Gum Syrup
+Missing:  .5 oz Egg White
+Missing: 1.5 oz Hophead Vodka
+Missing:  .5 oz Ginger Liqueur
+Drink: IPA Mule
+Missing:  .5 oz Pure Cane Simple Syrup
+Missing:  2 count Deschutes Fresh Squeezed IPA (from tap)
+Missing: .75 oz Cognac
+Missing:  .5 oz Cointreau
+Missing:  .25 oz Luxardo Maraschino Liqueur
+Missing:  .25 oz Fresh Lemon Juice
+Missing:  3 oz Champagne
+Missing: 1 oz King's Ginger Liqueur
+Missing:  1.5 oz Homemade milk chocolate
+Missing:  .75 oz Hazelnut Cinnamon syrup
+Missing:   oz Marshmallow whip cream
+Missing:   oz Ginger snaps
+S: 1.5 oz Mezcal
+Drink: Flor de Amaras
+S:  1 oz Hibiscus Simple Syrup*
+Missing:  1 oz Hibiscus Simple Syrup*
+S:  .5 oz Lime Juice
+S:   top Soda Water
+Missing:   top Soda Water
+S: 2 oz Junipero Gin
+Missing: 2 oz Junipero Gin
+S:  .75 oz House-made Cranberry Syrup*
+Missing:  .75 oz House-made Cranberry Syrup*
+S:  .5 oz Lemon Juice
+Missing:  .5 oz Lemon Juice
+S:  .5 oz Cranberry Juice
+Missing:  .5 oz Cranberry Juice
+S:  .25 oz Lillet Blanc
+Missing:  .25 oz Lillet Blanc
+S:  4 dash Forgery Earth Day Bitters
+Missing:  4 dash Forgery Earth Day Bitters
+S:   mist Laphroaig
+Missing:   mist Laphroaig
+S: 1500 ml BarSol Selecto Italia Pisco
+Missing: 1500 ml BarSol Selecto Italia Pisco
+S:  750 ml Lemon Juice
+Missing:  750 ml Lemon Juice
+S:  750 ml Pineapple Gomme Syrup*
+Missing:  750 ml Pineapple Gomme Syrup*
+S:  .5 oz Fee Bros Lemon Bitters
+Missing:  .5 oz Fee Bros Lemon Bitters
+S:  1 float Old Vine Zin
+Missing:  1 float Old Vine Zin
+S: 1.5 oz BarSol Primero Quebranta Pisco
+Missing: 1.5 oz BarSol Primero Quebranta Pisco
+S:  .75 oz Dry Vermouth
+Missing:  .75 oz Dry Vermouth
+S:  .5 oz St. Germain
+Missing:  .5 oz St. Germain
+S:  .25 oz Pineapple Syrup*
+Missing:  .25 oz Pineapple Syrup*
+S:  1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+Missing:  1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+S: 1.25 oz Luxardo Maraschino Liqueur
+Missing: 1.25 oz Luxardo Maraschino Liqueur
+S:  4 drops Acid phosphate
+Missing:  4 drops Acid phosphate
+S:  2 oz BarSol Primero Quebranta Pisco
+Missing:  2 oz BarSol Primero Quebranta Pisco
+S:  .75 oz Luxardo Amaro Abano
+Missing:  .75 oz Luxardo Amaro Abano
+S:  .25 oz Luxardo Fernet
+Missing:  .25 oz Luxardo Fernet
+S:  3 dash Scrappy's Aromatic Bitters
+Missing:  3 dash Scrappy's Aromatic Bitters
+S: 1 oz Junipero Gin
+Missing: 1 oz Junipero Gin
+S:  1 oz House-made Simple Syrup*
+Missing:  1 oz House-made Simple Syrup*
+S:  1 oz Manzanilla Sherry
+Missing:  1 oz Manzanilla Sherry
+S:  .75 oz Lemon Juice
+Missing:  .75 oz Lemon Juice
+S:  2 dash Absinthe
+Missing:  2 dash Absinthe
+S:  6-8  Sugar Snap Peas
+Missing:  6-8  Sugar Snap Peas
+S:   top Tonic
+Missing:   top Tonic
+S: 2 oz Bourbon
+Missing: 2 oz Bourbon
+S:  1 oz Fresh Lemon Juice
+Missing:  1 oz Fresh Lemon Juice
+S:  .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+Missing:  .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+S:  .5 oz Small Hand Foods Pineapple Gum Syrup
+Missing:  .5 oz Small Hand Foods Pineapple Gum Syrup
+S:  .5 oz Egg White
+Missing:  .5 oz Egg White
+S: 1.5 oz Hophead Vodka
+Missing: 1.5 oz Hophead Vodka
+S:  .5 oz Ginger Liqueur
+Missing:  .5 oz Ginger Liqueur
+S:  .75 oz Lime Juice
+Drink: IPA Mule
+S:  .5 oz Pure Cane Simple Syrup
+Missing:  .5 oz Pure Cane Simple Syrup
+S:  2 count Deschutes Fresh Squeezed IPA (from tap)
+Missing:  2 count Deschutes Fresh Squeezed IPA (from tap)
+S: .75 oz Cognac
+Missing: .75 oz Cognac
+S:  .5 oz Cointreau
+Missing:  .5 oz Cointreau
+S:  .25 oz Luxardo Maraschino Liqueur
+Missing:  .25 oz Luxardo Maraschino Liqueur
+S:  .25 oz Fresh Lemon Juice
+Missing:  .25 oz Fresh Lemon Juice
+S:  3 oz Champagne
+Missing:  3 oz Champagne
+S: 1 oz King's Ginger Liqueur
+Missing: 1 oz King's Ginger Liqueur
+S:  1.5 oz Homemade milk chocolate
+Missing:  1.5 oz Homemade milk chocolate
+S:  .75 oz Hazelnut Cinnamon syrup
+Missing:  .75 oz Hazelnut Cinnamon syrup
+S:   oz Marshmallow whip cream
+Missing:   oz Marshmallow whip cream
+S:   oz Ginger snaps
+Missing:   oz Ginger snaps
+Drink: Flor de Amaras
+Drink: IPA Mule
+Drink: Flor de Amaras
+Drink: IPA Mule
+Drink: Flor de Amaras
+Drink: IPA Mule
+Drink: Flor de Amaras
+Drink: Flor de Amaras
+Drink: IPA Mule
+Drink: Flor de Amaras
+Drink: IPA Mule
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Drink: Flor de Amaras
+Drink: The Happy Place
+Drink: Bon Voyage Pisco Punch
+Drink: Still Life of a Pineapple
+Drink: The Bittered Valley
+Drink: OH Snap!
+Drink: Wabash Avenue Sour
+Drink: IPA Mule
+Drink: Ritz Cocktail
+Drink: King's Snap the Chocolate Out of You
+Index Page
+Index Page
+Index Page
+Index Page
+Index Page
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+Index Page
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+Drink: Flor de Amaras
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+Drink: Flor de Amaras
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+Drink: IPA Mule
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+Drink: Flor de Amaras
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+Drink: Flor de Amaras
+1.5 oz Mezcal
+ 1 oz Hibiscus Simple Syrup*
+ .5 oz Lime Juice
+  top Soda Water
+2 oz Junipero Gin
+ .75 oz House-made Cranberry Syrup*
+ .5 oz Lemon Juice
+ .5 oz Cranberry Juice
+ .25 oz Lillet Blanc
+ 4 dash Forgery Earth Day Bitters
+  mist Laphroaig
+1500 ml BarSol Selecto Italia Pisco
+ 750 ml Lemon Juice
+ 750 ml Pineapple Gomme Syrup*
+ .5 oz Fee Bros Lemon Bitters
+ 1 float Old Vine Zin
+1.5 oz BarSol Primero Quebranta Pisco
+ .75 oz Dry Vermouth
+ .5 oz St. Germain
+ .25 oz Pineapple Syrup*
+ 1 bsp Vieux Pontarlier Absinthe Francaise Superieure
+1.25 oz Luxardo Maraschino Liqueur
+ 4 drops Acid phosphate
+ 2 oz BarSol Primero Quebranta Pisco
+ .75 oz Luxardo Amaro Abano
+ .25 oz Luxardo Fernet
+ 3 dash Scrappy's Aromatic Bitters
+1 oz Junipero Gin
+ 1 oz House-made Simple Syrup*
+ 1 oz Manzanilla Sherry
+ .75 oz Lemon Juice
+ 2 dash Absinthe
+ 6-8  Sugar Snap Peas
+  top Tonic
+2 oz Bourbon
+ 1 oz Fresh Lemon Juice
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .5 oz Egg White
+1.5 oz Hophead Vodka
+ .5 oz Ginger Liqueur
+ .75 oz Lime Juice
+ .5 oz Pure Cane Simple Syrup
+ 2 count Deschutes Fresh Squeezed IPA (from tap)
+.75 oz Cognac
+ .5 oz Cointreau
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Fresh Lemon Juice
+ 3 oz Champagne
+1 oz King's Ginger Liqueur
+ 1.5 oz Homemade milk chocolate
+ .75 oz Hazelnut Cinnamon syrup
+  oz Marshmallow whip cream
+  oz Ginger snaps
+1.5 oz Jasmine Tea/Rice-Infused Junipero Gin*
+ .75 oz Leopold Bros. Sour Apple Liqueur
+ .75 oz Lime
+ .5 oz House-made Honey Syrup**
+ .25 oz Lo-Fi Gentian Amaro
+Drink: Fourth Generation
+1.5 oz Mezcal
+ .25 oz Luxardo Espresso Italian Liqueur
+ .75 oz Luxardo Bitter Bianco
+ 2 dash Salted Chocolate Bitters
+1.5 oz Junipero Gin
+ .75 oz Pineapple Juice
+ .5 oz Monin Strawberry Puree
+ 6-7  Mint Leaves
+ .5 oz Lemon Sour
+ 1 oz Lemon Lime Soda
+.75 oz Luxardo Maraschino Liqueur
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ 1  Basil Leaf
+ .25 oz Lime Juice
+ 5 dash Rose Water
+1.5 oz Junipero Gin
+ 1 oz Lime Sour
+ .5 oz Orange Juice
+ .25 oz Dry Curacao
+.75 oz Luxardo Maraschino Liqueur
+ .5 oz Junipero Gin
+ .75 oz Monin Apple Puree
+ .25 oz Lemon Juice
+ 1 dash Fennel Bitters
+.75 oz Banks 5 Rum
+ .75 oz Denizen Aged White Rum 
+ .75 oz Denizen Aged White Rum 
+ .75 oz Luxardo Amaro Abano
+1 oz King's Ginger Liqueur
+ 1 oz H by HINE
+ .25 oz Lemon juice
+ .25 oz Simple syrup
+ 2 dash Fee Brothers Rhubard bitters
+25 oz King's Ginger Liqueur
+ 37.5 oz Cranberry Juice
+ 37.5 oz Fever-Tree Lemonade
+.75 c Junipero Gin
+ .75 c C. Drouin Calvados Selection
+ .5 c Lemon Juice
+ .5 c Ginger-Vanilla Syrup
+ 4 dash Angostura Bitters
+ 1 bottle Sparkling Rose
+1.5 oz King's Ginger Liqueur
+ .5 oz Luxardo Fernet
+ .25 oz BenRiach Curiositas Single Malt 10 YO
+ .75 oz Lemon Juice
+1.5 oz Pink Pigeon Rum
+ .5 oz Luxardo Amaretto di Saschira
+ .5 oz Osha Falernum
+ .5 oz Lemon juice
+ 1 oz Pineapple juice
+ 3 dash Orange bitters
+ oz Junipero Gin
+  oz Lemon
+  oz Elder Flower Liquor
+  oz Honey Syrup
+  oz Carrot Juice
+1.5 oz Pink Pigeon Rum
+ .5 oz Luxardo Maraschino Liqueur
+ .75 oz Fresh Lime Juice
+ .5 oz Simple Syrup
+ .5 oz Fresh Grapefruit Juice
+1 oz King's Ginger Liqueur
+ .25 oz Briottet Creme de Mure (Blackberry)
+  top Pear Cider
+2 oz Glenrothes Vintage Reserve
+ 1 oz King's Ginger Liqueur
+ .25 oz Honey Syrup
+ 1 dash Angostura Bitters
+2 oz Single Malt Scotch
+ .25 oz Dry Vermouth
+ .25 oz Luxardo Maraschino Liqueur
+ 2 dash Angostura Bitters
+1 oz Luxardo Aperitivo
+ .5 oz Lemon Juice
+ .5 oz Orange Juice
+ .5 oz Simple Syrup
+  top Anchor California Lager
+1.5 oz Luxardo Bitter Bianco
+ 1 oz Junmai Sake
+ .25 oz Coconut Rum
+ 1 dash Orange Bitters
+ 1 dash Coconut Vinegar
+1.5 oz H by HINE
+ .5 oz Dubonnet Rouge
+ .5 oz Cherry Herring
+ .375 oz Blood Orange Juice
+ .375 oz Lemon Juice
+1.5 oz Old Tom Gin
+ 1.5 oz Tempus Fugit Alessio Vermouth di Torino Rosso
+ .25 oz Luxardo Maraschino Liqueur
+ 2 dash Tempus Fugit Abbott's Bitters
+1.5 oz Luxardo Amaretto di Saschira
+ .5 oz Bourbon
+ .5 oz Fresh Lime Juice
+ .75 oz Pineapple Juice
+ .75 oz Fresh Egg White
+ 2 dash Angostura Bitters
+1 oz Broker's Gin
+ 1 oz Karlsson's Gold Vodka
+ 2 oz Celery Root Puree
+ .5 oz Fresh Lemon Juice
+ .75 oz Simple Syrup
+ 3 dash Apple Bitters
+ 1 dash Angostura Bitters
+2 oz King's Ginger Liqueur
+ .75 oz Lemon Juice
+ .75 oz Simple Syrup
+2 oz Ypioca Brasilizar Cachaca Prata Reserva Especial
+ 1.5 oz Fresh Passion Fruit
+ 1 oz Condense Milk
+ .25 oz Brown Sugar Syrup (2:1)
+.75 oz Junipero Gin
+ .75 oz Tempus Fugit Kina L'Aero d'Or
+ .75 oz Luxardo Bitter Bianco
+ .75 oz Lemon Juice
+ .75 oz Egg Whites
+ .5 oz Rich Simple Syrup*
+1 oz High West Oat Whisky
+ .5 oz King's Ginger Liqueur
+ .5 oz Peach Shrub
+ .75 oz Lime
+ 1 dash Angostura Bitters
+ 1 dash Grapefruit Bitters
+2 oz BarSol Selecto Italia Pisco
+ 2 oz Pineapple Juice
+ 1 oz Fresh Lime Juice
+ 1 oz Simple Syrup
+2 oz Ypioca Brasilizar Cachaca Prata Reserva Especial
+ 1.5 oz Sweetened Condensed Milk
+ 1 oz Passion Fruit (fresh or puree)
+ .5 oz Pilon Syrup*
+1 oz Junipero Gin
+ 1 oz Campari
+ 1 oz Tempus Fugit Alessio Vermouth di Torino Rosso
+2 oz Glenrothes Vintage Reserve
+ .75 oz Tempus Fugit Alessio Vermouth di Torino Rosso
+ 3 dash Angostura Bitters
+1 oz No.3 London Dry Gin
+ 1 oz Applejack
+ 1 oz Luxardo Apricot Liqueur
+2 oz Gin
+ .75 oz Sweet Vermouth
+ .75 oz Dubonnet Rouge
+ .25 oz Luxardo Maraschino Liqueur
+1.5 oz Gin
+ 1.5 oz Pineau des Charentes
+ .5 oz Luxardo Maraschino Liqueur
+2 oz Bourbon
+ .25 oz Luxardo Maraschino Liqueur
+ .5 oz Simple Syrup
+ 1 dash Angostura Bitters
+ 1 dash Vieux Pontarlier Absinthe Francaise Superieure
+2 oz Banks 5 Island Rum
+ .75 oz Fresh Lime Juice
+ .5 oz Fresh Grapefruit Juice
+ .5 oz Luxardo Maraschino Liqueur
+ 1 tsp Vieux Pontarlier Absinthe Francaise Superieure
+Drink: Trato Hecho
+.75 oz Pineapple-Infused Mezcal*
+ .75 oz Green Chartreuse
+ .75 oz Luxardo Maraschino Liqueur
+ .75 oz Lime Juice
+1.5 oz H by HINE
+ .5 oz Luxardo Amaro Abano
+ .75 oz Fresh Lemon Juice
+ .75 oz Strawberry Syrup*
+ .5 oz Egg White
+1.5 oz H by HINE
+ .75 oz Rye Whiskey
+ .75 oz Green Chartreuse
+ 2 dash Lemon Bitters
+ 1 splash Fernet-Branca
+40 ml Pink Pigeon Rum
+ 2 dash Angostura Bitters
+  top Ginger Beer
+2 oz Pink Pigeon Rum
+ 1.5 oz Fresh lime juice
+ .25 oz Simple syrup
+  oz Mexican Coca Cola
+ 1 float Luxardo Fernet
+1.5 oz Junipero Gin
+ .5 oz Lemon Juice
+ .25 oz Luxardo Maraschino Liqueur
+ .25 oz Liqueur de Violette
+ 3-4 oz Tonic Water
+.75 oz Luxardo Maraschino Liqueur
+ .25 oz Dry Curacao
+ .5 oz Bourbon Rye
+ .25 oz Lemon Juice
+1 oz No.3 London Dry Gin
+ 1 oz King's Ginger Liqueur
+ .75 oz Lemon juice
+ .5 oz Simple syrup
+ 2 oz Club soda
+1.5 oz Old Potrero Straight Rye Whiskey
+ .5 oz Lemon Juice
+ 2 oz Cold-pressed Apple Cider
+ 2 oz Hot Water
+ .5 oz Honey-Ginger Syrup*
+ 1 tsp Ghost-Pepper-Infused Campari**
+ 3 dash Cinnamon Tincture***
+1.5 oz Junipero Gin
+ 2 oz East Imperial Superior Tonic 
+   Assorted Complementing Botanicals*
+2 oz BarSol Selecto Acholado Pisco
+ .5 oz Fresh Lime Juice
+ 2-3 drops Angostura Bitters
+  top Ginger Ale
+1 part Briottet Creme de Cassis
+ 4 part Chilled Dry Champagne
+1 part Briottet Creme de Cassis
+ 4 part Chilled Dry White Wine
+1.5 oz Ypioca Brasilizar Cachaca Prata Classica
+ 1.5 oz Citrus Agave Blend
+ 1 splash Soda Water
+1 oz Chateau de Montifaud Cognac VSOP
+ 1 oz Plymouth Gin
+ 1 oz Contratto Bianco Vermouth
+ 2 dash Regans' Orange Bitters No. 6
+ 3 oz Club Soda
+1 oz Luxardo Sangue Morlacco Cherry Liqueur
+ 4 oz Prosecco
+1.5 oz H by HINE
+ 1 oz House Ginger Beer
+ .75 oz Lime juice
+ .75 oz Simple syrup
+ .25 oz John D. Taylor's Velvet Falernum
+ 3  Cucumber wheels
+ 8  Mint leaves
+ 1  Mint sprig
+1.5 oz Karlsson's Gold Vodka
+ .25 oz Lime juice 
+ 3 oz Ginger beer
+1 oz Pear Brandy
+ 1 oz Dry Vermouth
+ .5 oz Chateau de Montifaud Pineau des Charentes Blanc
+ .5 oz Dolin Genepy
+1.5 oz BarSol Primero Quebranta Pisco
+ 1 oz BarSol Perfecto Amor (Aperitif Wine)
+ .25 oz Leopold Bros. Bitter
+ .25 oz Velvet Falernum
+   Red Hawaiian Salt
+1.5 oz Chinaco Blanco Tequila
+ .25 oz F. Meyer Mirabelle (Yellow Plum)
+ .5 oz Fino Sherry
+ .75 oz The Genuine Curacao Liqueur Blue
+ 2 oz Horchata
+ .5 oz Simple Syrup (2:1)
+ .5 oz Lime Juice
+2 oz Hot Water
+ 2 oz Glenrothes
+ 1 oz King's Ginger Liqueur
+ 1 dash Honey
+1 cube Brown Sugar
+ soaked in Peychaud's Bitters
+ .75 oz Pink Pigeon Rum
+  fill Champagne
+2 oz Avuá Prata Cachaça
+ 2 oz Bacardi Superior Rum
+ 3 oz Chateau de Montifaud Pineau des Charentes Rose
+ 2 oz Lime Juice
+ 1 oz Cannella Cinnamon Cordial
+ 2 oz Simple Syrup
+1.5 oz Luxardo Bitter Bianco
+ .75 oz London Dry Gin
+ .75 oz Elderflower Liqueur
+ 2 dash Citric Acid
+ 4 drops Orange Flower Water
+ 2.5 oz Topo Chico Mineral Water
+1 oz Junipero Gin
+ 1 oz C. Drouin Calvados Selection
+ 1 oz Vermouth del Professore
+ 2 dash Angostura Bitters
+ 1 dash St. George Absinthe
+.75 oz Luxardo Bitter Bianco
+ 1 oz Junipero Gin
+ .75 oz Dry Vermouth
+ .5 oz Curacao
+ 2 dash Rhubarb Bitters
+5 oz Bacardi Superior Rum
+ 4 oz Chateau de Montifaud Pineau des Charentes Blanc
+ 3.5 oz Lemon Juice
+ 3.5 oz Velvet Falernum
+1.5 oz Ypioca Brasilizar Cachaca Prata Reserva Especial
+ .5 oz King's Ginger Liqueur
+ 1 oz Pineapple Juice
+ .5 oz Simple Syrup
+ 2 oz Coconut Water
+ 1 fill Soda Water
+2 part No.3 London Dry Gin
+ .5 part Real Cranberry Juice
+ .25 part Luxardo Fernet
+ .5 part Lime juice
+ 1.5 part Puer Black Tea
+ oz Pink Pigeon Rum
+  oz St. Germaine Elderflower Liqueur
+  oz Lemon 
+  oz Vanilla Syrup
+  oz Prosecco
+1 oz Luxardo Bitter Bianco
+ 1 oz Lillet Blanc
+ 1 oz No.3 London Dry Gin
+ .5 oz Rose Wine
+1 oz King's Ginger Liqueur
+ 1.5 oz Cranberry Juice
+ 1.5 oz Fever-Tree Lemonade
+7 oz Pink Pigeon Rum
+ 1 oz Agave Syrup
+ 7 oz Watermelon
+ 2  Lemon Juice
+  top Ginger Beer
+1.5 oz Wild Turkey 101 Bourbon
+ .75 oz Strawberry
+ Black Pepper Balsamic Shrub*
+ .75 oz Luxardo Sangue Morlacco Cherry Liqueur
+ 1 oz Fever-Tree Tonic Water
+.75 oz Luxardo Bitter Bianco
+ .75 oz Gin
+ .75 oz Clarified Milk*
+ 2 dash Orange Bitters
+ 4 drops Vanilla
+1.25 oz BarSol Primero Quebranta Pisco
+ .25 oz King's Ginger Liqueur
+ .5 oz Fresh Lime Juice
+ .25 oz Agave Nectar
+ 3-4 drops Cranberry Bitters
+ 4 oz Ginger Beer
+2 oz H by HINE
+ .25 oz Small Hand Foods Pineapple Gum Syrup
+ 1 bsp Luxardo Maraschino Liqueur
+ 2 dash Angostura Bitters
+2 oz Hirsch Small Batch Reserve Bourbon
+ .75 oz Luxardo Bitter
+ .5 oz Cold Blue Bottle Coffee
+ .25 oz Luxardo Anisette
+ 2 dash Peychaud's Bitters
+1.5 oz Tempus Fugit Alessio Vino Chinato
+ 1.5 oz Fig-Infused C. Drouin Calvados Selection
+ .5 oz Lemon
+ .25 oz Simple Syrup
+35 ml King's Ginger Liqueur
+ 125 ml Fever-Tree Bitter Lemon
+2 oz English Harbour Rum 5 YO
+ 2 oz Fresh Squeezed Pineapple Juice
+ 2 oz Fresh Coconut Water
+2 oz Nikka Whisky Taketsuru Pure Malt 12 YO
+ .5 oz 15 YO Sherry
+ 2 dashes Dr. Adam's Boker's bitters
+ .25 oz Simple syrup
+2 oz Nikka Whisky Taketsuru Pure Malt 12 YO
+ .25 oz Rich Cane Syrup
+ 2 dash Bittermens Xocolatl Mole Bitters
+ 2 dash Cinnamon Bitters
+2 oz Hirsch Small Batch Reserve Bourbon
+ 10 ml Amer Picon
+ 10 ml House Cola Syrup
+.5 oz Luxardo Maraschino Liqueur
+ .5 oz Squeeze of Lime 
+ 3 oz Italian Sparkling Water
+2 oz Luxardo Aperitivo
+ 3 oz Prosecco
+ 1 splash Sparkling Water
+1 oz Luxardo Bitter Bianco
+ 1 oz BarSol Primero Quebranta Pisco
+ 2 oz Fever-Tree Indian Tonic
+ 1 dash Luxardo Maraschino Liqueur
+1 oz Luxardo Cherry Syrup (from jar of cherries)
+ 1 scoop Vanilla Ice Cream
+  top Soda Water
+1 oz No.3 London Dry Gin
+ 1 oz Campari
+ 1 oz Martini & Rossi Sweet Vermouth
+1 oz Blended Scotch
+ 1 oz King's Ginger Liqueur
+ .5 oz The Genuine Curacao Liqueur Orange
+ .75 oz Fresh Lemon Juice
+  top Hot Water
+ 1 dash Peychaud's Bitters
+1 oz H by HINE
+ .5 oz Junipero Gin
+ .75 oz LemonJuice
+ .5 oz Orgeat
+ 1 dash Angostura Bitters
+Drink: Mexico Mule
+1 oz Montelobos Mezcal
+ .67 oz King's Ginger Liqueur
+ .5 oz Fresh Lime Juice
+ 3 oz Apple Cider
+ .5 oz Monin French Raspberry Syrup
+1.5 oz Nikka Coffey Grain Whiskey
+ .75 oz Luxardo Bitter
+ .75 oz Tempus Fugit Alessio Vermouth di Torino Rosso
+ 2 dash Chocolate Bitters
+.75 oz Pink Pigeon Rum
+ .75 oz Luxardo Maraschino Liqueur
+ .75 oz Green Chartreuse
+ .5 oz Lime Juice
+ .5 oz Pineapple Juice
+2 oz H by HINE
+ .5 oz Tempus Fugit Creme de Noyaux
+ .5 oz Orgeat
+ .375 oz Lemon
+ .375 oz Lime
+ 1 oz Heavy Whipping Cream
+ 1  Egg White
+1.5 oz Christmas Spirit
+ .25 oz Luxardo Maraschino Liqueur
+ .5 oz Chateau de Montifaud Pineau des Charentes Rose
+ .75 oz Tempus Fugit Gran Classico Bitter
+1.5 oz H by HINE
+ .75 oz Graham's 20 Year Tawny Port
+ .5 oz Tempus Fugit Kina L'Aero d'Or
+ .33 oz Velvet Falernum
+ .25 oz Benedictine
+1.5 oz Christmas Spirit
+ .5 oz King's Ginger Liqueur
+ .5 oz Lemon juice
+ .5 oz Honey syrup
+ .5 oz Egg white
+ 2 oz Ale
+ 3 drops Dale DeGroff's Pimento Aromatic Bitters
+1 oz No.3 London Dry Gin
+ 1 oz Maurin Quina
+ .5 oz Luxardo Bitter
+ .5 oz King's Ginger Liqueur
+1.5 oz Junipero Gin
+ .5 oz Genevieve Gin
+ .25 oz Rich Wild Sage Honey Syrup
+ 1 dash Angostura Bitters
+ 1 dash Whiskey Barrel Aged Bitters
+ .75 oz Spring Water
+1.5 oz Blanc Vermouth
+ .75 oz Lemon Juice
+ .5 oz Junipero Gin
+ .5 oz Giffard Pamplemousse
+ .5 oz House-made Yellow Shaw-treuse*
+ .5 oz Tonic
+ 2 dash Celery Bitters
+ 2 dash Coriander Tincture
+1.5 oz Luxardo Aperitivo
+ .5 oz Round Pond Blood Orange Syrup
+ .5 oz Fresh Lemon Juice
+ 1 splash Sparkling Wine
+1 oz Junipero Gin
+ 1 oz King's Ginger Liqueur
+ .5 oz Round Pond Meyer Lemon Syrup
+ .75 oz Fresh Lemon Juice
+ 1 splash Soda water
+2 oz Rhubarb Infused Gin*
+ .5 oz King's Ginger Liqueur
+ .75 oz Lemon
+ .75 oz Simple Syrup 
+ 1  Egg White
+   Soda
+1.5 oz H by HINE
+ .5 oz Elderflower Liqueur
+ 2 dash Absinthe
+  top Sparkling Wine
+1.5 oz Old Forester Bourbon
+ .5 oz King's Ginger Liqueur
+ .5 oz Giffard Crème de Pêche de Vigne
+ .5 oz Honey syrup (local honey cut 2:1 with water)
+ .75 oz Lemon juice
+ 1  Egg white
+ 1 dash Angostura Bitters
+2 oz Hophead Vodka
+ 6 oz Tomato Juice
+ 1.5 tsp Demitri's Bloody Mary Seasoning
+ .5 oz Fresh Lemon Juice
+1.5 oz King's Ginger Liqueur
+ .5 oz Pink Pigeon Rum
+ .5 oz Fresh-pressed Lemon Juice
+ .5 oz Snake Oil's House-made Sarsaparilla Syrup
+ .75 oz Carbonated Water
+ 1 dash Snake Oil's House-made Pomegranate Bitters
+2 oz Karlsson's Gold Vodka
+ 1 oz Apricot brandy
+ .5 oz Dry vermouth
+ .5 oz Sweet vermouth
+1 oz Cocchi Americano
+ 1 oz Karlsson's Gold Vodka
+ 2 oz Club Soda
+1.5 oz BarSol Perfecto Amor (Aperitif Wine)
+ .5 oz Lemon juice
+ .5 oz Luxardo Amaro Abano
+ .25 oz Luxardo Maraschino Liqueur
+2 oz Hophead Vodka
+ 1 oz Tempus Fugit Alessio Vermouth Bianco
+ 2 dash Luxardo Maraschino Liqueur
+   Salt
+2 oz Junipero Gin
+ .5 oz Lacuesta Blanco Vermouth
+ .25 oz Salers Gentiane Aperitif
+ 1 bsp Luxardo Maraschino Liqueur
+ 1 bsp Germain-Robin Absinthe
+ 2 dash Scrappy’s Lime Bitters
+1 oz Old Potrero Straight Rye Whiskey
+ 1.5 oz BarSol Perfecto Amor (Aperitif Wine)
+ 1 bsp Luxardo Amaro Abano
+ 1 dash Angostura bitters
+1.5 oz Junipero Gin
+ .75 oz Apricot Eau-de-Vie
+ .25 oz Grenadine
+ 2 dash Lemon Bitters
+ 2 dash Absinthe
+1.5 oz Junipero Gin
+ 1.5 oz Nori-Infused Sake*
+ 1 dash Celery Bitters
+ 3 dash Islay Scotch
+1.5 oz H by HINE
+ .75 oz Bonal
+ .5 oz Luxardo Amaro Abano
+ .25 oz Nocino
+1 oz Glenrothes Bourbon Reserve
+ 1.5 oz C. Drouin Pommeau de Normandie
+ .5 oz Chamomile Tea Syrup*
+ .75 oz Lemon Juice
+1.5 part Gin
+ .25 part Luxardo Apricot Liqueur
+ .75 part Casoni 1814
+ .5 part Dry Vermouth
+ 1 part Unfiltered Apple Juice
+ 1 part Fresh Lemon Juice
+ .5 part Rich Simple Syrup (2:1)
+ 2 part Jasmine Green Tea
+2 oz Hophead Vodka
+ .75 oz Fresh Lemon Juice
+ .75 oz Fresh Grapefruit Juice
+ .5 oz Simple Syrup
+   Gin Barrel Aged Orange Bitters
+   Fresh Basil Leaves
+2 oz Ypioca Brasilizar Cachaca Ouro Reserva Especial
+ 1 oz Jalapeno-Orange Simple Syrup
+ 1 oz Coconut Milk
+ 4 dash Orange Flower Water
+ 9 drops Mole Bitters
+Drink: Boko Buku
+1.5 oz Mezcal
+ .75 oz Don Ciccio & Figli Concerto
+ .125 oz Vanilla Marinade
+ 8 dash Mole Bitters
+1 oz Applejack
+ 1 oz Amontillado Sherry
+ .75 oz Orgeat
+ .75 oz Fresh Lemon Juice
+ 1 bsp Tempus Fugit Creme de Noyaux
+2 oz BarSol Perfecto Amor (Aperitif Wine)
+ .5 oz Penny Blue Mauritian Rum
+ 6 dash Celery Shrub
+ 3 dash House-made Tarragon Tincture
+1.5 oz Junipero Gin
+ .5 oz Orange Liquor
+ 1.5 oz House-made Spiced Pumpkin Puree
+ .5 oz Lemon Juice
+ .5 oz Ginger Syrup
+ 1  Egg White
+  top Apple Cider
+1.5 oz Hophead Vodka
+ .75 oz Zirbenz Stone Pine
+ .75 oz Fresh Strawberry Juice w/ Xanthan Gum*
+ .75 oz Lemon Juice
+ .5 oz Simple Syrup
+2 oz Chinaco Blanco Tequila
+ .5 oz Lemon Juice
+ .5 oz Small Hand Foods Pineapple Gum Syrup
+ .25 oz Vanilla Syrup*
+ .5 oz Coconut Cream**
+ .5 oz Egg White
+4 oz Ca' Secco Sparkling
+ 1 bsp Luxardo Cherry Syrup
+1.5 oz H by HINE
+ .75 oz Luxardo Amaro Abano
+ .5 oz Luxardo Apricot Liqueur
+ .25 oz Luxardo Amaretto di Saschira
+ .16 oz Luxardo Maraschino Liqueur
+ .5 oz Perfect Puree Apricot*
+ .5 oz Lemon Juice
+1.5 oz Pink Pigeon Rum
+ .5 oz Fresh Lemon Juice
+ .75 oz Honey Syrup (1:1 honey & water)
+ 1 oz Pomegranate Juice
+ 3 oz Rose Wine
+   Cinnamon
+ grated
+   Nutmeg
+ grated
+   Cherries
+   Strawberries
+   Watermelon
+ cube
+1 oz Luxardo Bitter Bianco
+ 2 oz No.3 London Dry Gin
+ 2 dash Orange Bitters
+ 1 bsp Luxardo Maraschino Liqueur
+1 oz Luxardo Bitter Bianco
+ 1.5 oz BarSol Primero Quebranta Pisco
+ .25 oz Bay Leaf Syrup*
+ 2 dash Salt Tincture**
+2 oz Rhubarb Cucumber & Mint-Infused Junipero Gin
+ .75 oz Lemon Juice
+ .75 oz Tempus Fugit Alessio Vermouth Bianco
+ .5 oz Rhubarb Juice
+ .5 oz Grapefruit Juice
+ .5 oz Rhubarb Syrup
+ 2 dash Fee Brothers Celery Bitters
+1.5 oz Luxardo Amaro Abano
+ .5 oz Lemon juice
+ .25 oz Simple syrup
+ .5 oz Egg white
+ 1 dash Fee Bros Rhubarb bitters
+2 oz J.H. Cutter Whisky
+ .75 oz Averna Amaro
+ .5 oz Alvear PX Sherry
+ 2 dash Angostura Bitters
+1 oz No.3 London Dry Gin
+ 1 oz Maurin Quina
+ .75 oz King's Ginger Liqueur
+ .5 oz Honey Jalapeño syrup
+ 1 oz Orange juice
+ .5 oz Lemon juice
+ 1 oz Soda water
+4 oz Hophead Vodka
+ .5 oz Olive Juice
+ 1 dash Dry Vermouth
+2 oz Nikka Whisky Taketsuru Pure Malt 12 YO
+ .75 oz C. Drouin Pommeau de Normandie
+ .25 oz Luxardo Maraschino Liqueur
+ 4 dash Black Walnut Bitters
+1 oz Hophead Vodka
+ 1 oz Junipero Gin
+ .5 oz Maurin Quina
+2 oz Hophead Vodka
+ .25 oz Simple syrup
+ 2 dash Angostura bitters
+ 1 dash Fee Brothers Gin Barrel Aged Bitters
+1.5 oz Luxardo Bitter Bianco
+ .5 oz BarSol Pisco
+ .5 oz Luxardo Maraschino Liqueur
+ .5 oz Dry Vermouth
+1.75 oz No.3 London Dry Gin
+ .75 oz Velvet Falernum
+ .5 oz Lime juice
+ .5 oz Pear Sage Foam
+ 1 float Prosecco
+1.5 oz Jack Daniel's
+ .5 oz Luxardo Sangue Morlacco Cherry Liqueur
+ 1 oz Fresh Lemon Juice
+ .25 oz Cane Sugar Syrup*
+ 1 dash Angostura Orange Bitters
+2 oz Old Tom Gin
+ .5 oz Noilly Prat Ambre Vermouth
+ .5 oz Pineapple Juice
+ .5 oz Lime Juice
+ .25 oz Rich Simple (2:1)
+ .75 float Dry Sparkling Wine
+1.5 oz No.3 London Dry Gin
+ 1.5 oz Averna
+ .75 oz Honey
+ 1 whole Egg
+.75 oz BarSol Primero Quebranta Pisco
+ .75 oz El Tesoro Reposado Tequila
+ .5 oz Grüner Veltliner
+ .5 oz Lime
+ .25 oz Pineapple Gum
+ 1 bsp Sweet Marmalade
+1.5 oz Karlsson's Gold Vodka
+ .75 oz Gran Duque d Alba Solera gran Reserva brandy
+ .75 oz Carpano Antica Vermouth
+ .25 oz Benedictine
+ 1 tincture Peychaud's Bitters
+ 1 tincture Angostura bitters
+1.5 oz Karlsson's Gold Vodka
+ .75 oz Esprit de June
+ .5 oz Fresh lemon juice
+ .5 oz Simple syrup
+1 oz Luxardo Bitter Bianco
+ 1 oz Citadelle Gin
+ 2 dash Orange Bitters
+ .25 oz Rose Poached Pear Syrup*
+ 1 oz Topo Chico Mineral Water
+ 1 oz Fever-Tree Sparkling Lemon
+9 oz C. Drouin Calvados Selection
+ 6 oz Marrakesh Mint Tea
+ 6 oz Prosecco
+ 3 oz King's Ginger Liqueur
+ 2 oz Lemon Juice
+ 1.5 oz Velvet Falernum
+ .5 oz Dale DeGroff's Pimento Aromatic Bitters
+1.5 oz J.H. Cutter Whisky
+ 1 oz  Moroccan Mint Tea (chilled)*
+ .75 oz The King's Ginger
+ .5 oz Lemon Juice
+ .25 oz Rich Honey Syrup**
+2 oz Junipero Gin
+ .5 oz Luxardo Bitter
+ 1 bsp Kalani Coconut Liqueur
+ 1 dash Angostura Bitters
+  top IPA
+ 1

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+<table>
+  <thead>
+      <tr>
+        <th>Name</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      {% for liquid in liquids %}
+      <td>{{liquid}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

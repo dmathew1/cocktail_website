@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Cocktails</title>
+   {% block head %}{% endblock %}
+  </head>
+  <body>
+    <div>
+      <ul>
+        <li><a href='/'>Index</a></li>
+        <li><a href='/liquids'>liquids</a></li>
+        <li><a href='/cocktail/'>Ingredient Specific</a></li>
+      </ul>
+    </div>
+    <div>
+      {% block content %}
+      {% endblock %}
+    </div>
+  </body>
+</html>

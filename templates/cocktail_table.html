@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block content %}
+
+
+<form action="{{ url_for('addIngr') }}" method="POST">
+  <input type="text" name="ingr" />
+  <input type="submit" name="add"/ />
+</form>
+
+<form action="{{ url_for('clearIngr') }}" method="post">
+    <button name="clearIngr" type="submit">Clear</button>
+</form>
+<form action="{{ url_for('getCocktailByIngredient') }}" method="post">
+    <button name="getCocktailByIngredient" type="submit">Search</button>
+</form>
+
+{% if ingrList is defined %}
+{{ingrList}}
+{% endif %}
+{% if  drinks is defined %}
+<table>
+  <thead>
+      <tr>
+        <th>Cocktail Name</th>
+        <th>Ingredients</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      {% for key,value in drinks.iterrows() %}
+      <td>{{value['Cocktail Name']}}</td>
+      <td>{{value['Ingredients']}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endblock %}
