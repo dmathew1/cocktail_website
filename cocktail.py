@@ -7,7 +7,7 @@ from loggers import logger
 
 class Cocktails:
 
-    base = "C:\\Users\\denze\\Downloads\\cocktails.csv"
+    base = "C:\\Users\\denze\\Downloads\\cocktails_data.csv"
 
     def __init__(self):
         self.csv = self.readCsv(self.base)
