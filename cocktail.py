@@ -7,7 +7,7 @@ from loggers import logger
 
 class Cocktails:
 
-    base = "C:\\Users\\denze\\Downloads\\cocktails_data.csv"
+    base = "C:\\Users\\denze\\Desktop\\test\\cocktails_data.csv"
 
     def __init__(self):
         self.csv = self.readCsv(self.base)
@@ -31,11 +31,16 @@ class Cocktails:
         df = pd.DataFrame()
         logger.info(type(reqList))
         for index,ingrList in ingrSeries.items():
-            for ingr in ingrList:
-                if any(subIngr in ingr for subIngr in reqList):
-                    df = self.csv.iloc[[index]]
-                    if not True in [df.equals(x) for x in drinkList]:
-                        drinkList.append(df)
+            count = 0
+            for x in reqList:
+                for ingr in ingrList:
+                    for word in ingr.split():
+                        if x in word:
+                            count += 1
+            if len(reqList) == count:
+                df = self.csv.iloc[[index]]
+                if not True in [df.equals(x) for x in drinkList]:
+                    drinkList.append(df)
                 else:
                     missingList.append(ingr)
             df = self.csv.iloc[[index]]

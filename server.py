@@ -23,6 +23,9 @@ def addIngr():
     ingrList.append(d)
     return render_template('cocktail_table.html', ingrList=ingrList)
 
+@app.route('/viewCocktail')
+def viewCocktails():
+    return render_template('cocktail_table.html')
 
 @app.route('/clearIngr',methods=['POST'])
 def clearIngr():
