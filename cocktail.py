@@ -29,15 +29,15 @@ class Cocktails:
         drinkList = []
         missingList = []
         df = pd.DataFrame()
-        logger.info(type(reqList))
         for index,ingrList in ingrSeries.items():
-            count = 0
-            for x in reqList:
-                for ingr in ingrList:
-                    for word in ingr.split():
+            items = set()
+            for ingr in ingrList:
+                for word in ingr.split():
+                    for x in reqList:
                         if x in word:
-                            count += 1
-            if len(reqList) == count:
+                            items.add(x)
+                            break
+            if len(reqList) == len(items):
                 df = self.csv.iloc[[index]]
                 if not True in [df.equals(x) for x in drinkList]:
                     drinkList.append(df)
